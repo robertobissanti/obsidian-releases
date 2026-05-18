@@ -3634,5 +3634,12 @@
     "repo": "jackmort/manuscript",
     "screenshot": "screenshot.png",
     "modes": ["dark", "light"]
+  },
+  {
+    "name": "rbWave",
+    "author": "Roberto Bissanti",
+    "repo": "robertobissanti/rbWave",
+    "screenshot": "background.png",
+    "modes": ["dark", "light"]
   }
 ]
